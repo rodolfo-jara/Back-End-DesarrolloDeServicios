@@ -1,0 +1,141 @@
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\API.exe
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\API.deps.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\API.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\API.pdb
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\refint\API.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.pdb
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\obj\Debug\net6.0\ref\API.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Dapper.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Channels\Indian Guy\Programs\(23-01-27) Library Management System\LibraryAPI\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\appsettings.Development.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\appsettings.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\API.exe
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\API.deps.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\API.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\API.pdb
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Dapper.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\refint\API.dll
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.pdb
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\cibertec\desarrollo de servicios web 1\proyecto martes\API\API\obj\Debug\net6.0\ref\API.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\appsettings.Development.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\appsettings.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\API.exe
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\API.deps.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\API.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\API.pdb
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Dapper.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\refint\API.dll
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.pdb
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\DesarrolloDeServiciosWeb\ProyeCTO OFI\Nueva carpeta\api ui\API\API\obj\Debug\net6.0\ref\API.dll
